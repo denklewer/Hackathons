@@ -1,3 +1,6 @@
 [submodule "qococh"]
 	path = qococh
 	url = https://github.com/denklewer/qococh
+[submodule "mirror"]
+	path = mirror
+	url = https://github.com/denklewer/mirror
