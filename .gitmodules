@@ -1,0 +1,3 @@
+[submodule "qococh"]
+	path = qococh
+	url = https://github.com/denklewer/qococh
